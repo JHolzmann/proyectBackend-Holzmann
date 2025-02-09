@@ -1,0 +1,9 @@
+{
+    "title": "Laptop gamer",
+    "description": "la laptop mas potente para gamer",
+    "code": "LAP124",
+    "price": "1500",
+    "stock": 10,
+    "category": "Electronics",
+    "thumbnails": ["img1.jpg"]
+}
